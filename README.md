@@ -715,7 +715,7 @@ If you come from [Netflix/fast_jsonapi](https://github.com/Netflix/fast_jsonapi)
 
 ```diff
 - gem 'fast_jsonapi'
-+ gem 'jsonapi-serializer'
++ gem 'jsonapi/serializer'
 ```
 
 ### Replace all constant references
